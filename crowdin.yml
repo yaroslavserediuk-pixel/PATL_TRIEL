@@ -1,4 +1,4 @@
 files:
-  - source: en.json
+  - source: en. json
     translation: /%two_letters_code%.json
     multilingual: 1
